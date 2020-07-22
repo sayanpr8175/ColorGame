@@ -1,5 +1,7 @@
 body{
   background-color: #232323;
+  margin: 0;
+  font-family: "Montseratr","Avenir";
 }
 
 .square{
@@ -16,7 +18,15 @@ body{
 }
 
 h1{
+  text-align: center;
+  line-height: 1.1;
+  font-weight: normal;
   color: white;
+  background-color: steelblue;
+  margin: 0;
+  text-transform: uppercase;
+  padding: 20px 0;
+
 }
 
 #stripe{
@@ -24,4 +34,21 @@ h1{
   height: 30px;
   text-align: center;
   color: black;
+}
+.selected {
+  background: blue;
+
+}
+#colordisplay{
+  font-size: 200%;
+}
+button{
+  border : none;
+  background: none;
+  text-transform: uppercase;
+  height: 100%;
+  font-weight: 700;
+  color: "steelblue";
+  letter-spacing: 1px;
+  font-size: inherit;
 }
