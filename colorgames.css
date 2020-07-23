@@ -17,7 +17,7 @@ body{
 }
 
 #container {
-  margin: 20px auto;
+  margin: 25px auto;
   max-width: 600px;
 }
 
@@ -45,6 +45,11 @@ h1{
 }
 #colordisplay{
   font-size: 200%;
+}
+
+#message{
+  display: inline-block;
+  width: 20%
 }
 button{
   border : none;
