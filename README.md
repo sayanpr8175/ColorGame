@@ -1,5 +1,5 @@
 # ColorGame App
-This app I built while learning JavaScript, following tutorial videos
+This app I built while learning JavaScript.
 
 ## Built with ❤️ and 
 
@@ -13,6 +13,6 @@ This app I built while learning JavaScript, following tutorial videos
 
 ## App's snapshot
 
-  <img style="margin: 10px; justify-content: center;" src="https://github.com/sayanpr8175/ColorGame/blob/057fd6bbfed6df4211645ffe091ab4b3e14dafa2/AppSnapShot.PNG" alt="CSS3" height="500" width="710" /> 
+  <img style="margin: 10px;"  align="center" src="https://github.com/sayanpr8175/ColorGame/blob/057fd6bbfed6df4211645ffe091ab4b3e14dafa2/AppSnapShot.PNG" alt="CSS3" height="500" width="710" /> 
 
 
