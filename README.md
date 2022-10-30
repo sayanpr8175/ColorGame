@@ -12,7 +12,7 @@ This app I built while learning JavaScript.
 # [Check out the ColorGame](https://sayanpr8175.github.io/ColorGame/)
 
 ## App's snapshot
-<div align="center"> <img style="margin: 10px;"  src="https://github.com/sayanpr8175/ColorGame/blob/057fd6bbfed6df4211645ffe091ab4b3e14dafa2/AppSnapShot.PNG" alt="CSS3" height="550" width="780" />  </div>
+<div align="center"> <img style="margin: 10px;"  src="https://github.com/sayanpr8175/ColorGame/blob/057fd6bbfed6df4211645ffe091ab4b3e14dafa2/AppSnapShot.PNG" alt="CSS3" height="550" width="850" />  </div>
   
 
 
